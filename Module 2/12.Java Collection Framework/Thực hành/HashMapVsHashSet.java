@@ -67,7 +67,6 @@ public class HashMapVsHashSet {
             for (Student student:students){
                 System.out.println(student.toString());
             }
-
         }
     }
 }
